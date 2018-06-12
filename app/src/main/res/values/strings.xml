@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenPIS</string>
+    <string name="task_name">Nom</string>
+    <string name="data">Data</string>
+    <string name="assumpte">Assumpte</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_aceptar">Aceptar</string>
+</resources>

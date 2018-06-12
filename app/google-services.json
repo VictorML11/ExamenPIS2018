@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1014299901064",
+    "firebase_url": "https://examenpis-9b248.firebaseio.com",
+    "project_id": "examenpis-9b248",
+    "storage_bucket": "examenpis-9b248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014299901064:android:eb878eeb80e673f5",
+        "android_client_info": {
+          "package_name": "examen.victor.me.examenpis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014299901064-hvmro8hiumse0f9e6r50u7lsouadcvpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "examen.victor.me.examenpis",
+            "certificate_hash": "a9e46348066920c635ddd86afe9e257ba80675c0"
+          }
+        },
+        {
+          "client_id": "1014299901064-hshqnk4eem19a030kinvmnl14v5sejbg.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1014299901064-hshqnk4eem19a030kinvmnl14v5sejbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYAKUd0BfRlKzNSoFsRfpkiELgfem5Mz4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014299901064-hshqnk4eem19a030kinvmnl14v5sejbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
